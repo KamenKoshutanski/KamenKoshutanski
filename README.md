@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Kamen Koshutanski</h1>
-<h3 align="center">I am an 12th grade student from Bulgaria</h3>
+<h3 align="center">I am a 12th grade student from Bulgaria</h3>
 
 - 📫 How to reach me **kamen.koshutanski@proton.me**
 <p align="left">
